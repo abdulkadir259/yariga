@@ -1,1 +1,2 @@
 # yariga
+Its a website where a user or agent can upload the proeprty which they want to list and enter the description of the property so the other user can see it as well he/she can also see the profile of the other agent or the user where they can see the property which they have listed in this website. Because of this the user will get more amount of property which are listed as well as the location and the budget and also the size of the apartment or row house depending on their requirement.
